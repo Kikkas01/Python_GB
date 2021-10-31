@@ -35,3 +35,4 @@ month_dict = {1: "Зима", 2: "Зима", 3: "Весна", 4: "Весна",
 for key, value in month_dict.items():
     if month == key:
         print(value)
+        
