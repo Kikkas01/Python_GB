@@ -1,0 +1,4 @@
+string1
+string2
+word1, word2, word3
+thanks god it's friday
